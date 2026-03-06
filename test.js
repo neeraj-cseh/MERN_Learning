@@ -1,1 +1,2 @@
-console.log("Hello World");
+name = "Neeraj";
+console.log(name);
