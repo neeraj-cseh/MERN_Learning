@@ -1,2 +1,1 @@
-name = "Neeraj";
-console.log(name);
+document.getElementById('Logo')
